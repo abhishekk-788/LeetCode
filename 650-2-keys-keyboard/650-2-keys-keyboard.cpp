@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int dp[1005][10005];
+    int dp[1005][1005];
     int F(int i, int k, int n)
     {
         if(i == n) return 0;
