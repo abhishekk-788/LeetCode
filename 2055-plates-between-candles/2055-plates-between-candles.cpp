@@ -15,7 +15,7 @@ public:
                 c++;
                 cndli[c] = i;
                 
-                cout << c << " " << cndli[c] << "   ";
+                // cout << c << " " << cndli[c] << "   ";
             }
             
             plt[i] = p; cndl[i] = c;
