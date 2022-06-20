@@ -20,7 +20,6 @@ public:
                 d = (int)y - (int)x;
             }
             else {
-                // cout << (int)y << " " << (int)x << "\n";
                 d = 122 - (int)x + (int)y - 97 + 1;
             }
             
@@ -36,7 +35,6 @@ public:
             }
             
             if(sm > k) return false;
-            // cout << d << " " << sm << "\n";
         }
         
         return true;    
