@@ -5,37 +5,19 @@ public:
         sort(nums.begin(), nums.end());
         queue<int> q;
         
-        int k = nums[0], ans = 0;
-        for(int i = 1; i < nums.size(); i++)
+        int prevNum = nums[0], count = 0;
+        for (int i = 1; i < nums.size(); i++) 
         {
-            if(nums[i] == nums[i-1]) {
-                q.push(nums[i]);
-            }
-            else 
+            if (nums[i] <= prevNum) 
             {
-                while(!q.empty() && nums[i] - k != 1)
-                {
-                    ans += (k - q.front() + 1);
-                    k++;
-                    
-                    // cout << q.front() << " " << k << " " << i << " " << nums[i] << " " << ans << "\n";
-
-                    q.pop();
-                }
+                prevNum++;
+                count += (prevNum - nums[i]);
+            } 
+            else {
+                prevNum = nums[i];
             }
-            
-            k = nums[i];
         }
-        
-        while(!q.empty()) 
-        {
-            ans += k-q.front()+1;
-            k++;
-            
-            q.pop();
-        }
-        
-        return ans;
+        return count;
     }
 };
 
