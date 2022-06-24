@@ -1,8 +1,9 @@
 class Solution {
 public:
+    unordered_map<int, int> mp;
     int longestConsecutive(vector<int>& nums) 
     {
-        unordered_map<int, int> mp;
+        mp.clear();
         if(nums.size() == 0) return 0;
         
         for(int i = 0; i < nums.size(); i++)
