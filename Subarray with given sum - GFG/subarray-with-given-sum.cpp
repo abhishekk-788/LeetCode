@@ -13,17 +13,18 @@ class Solution
         int sum = 0, i = 0, j = 0;
         while(i < n)
         {
-            sum += arr[i];
-            while(sum > s)
+            if(sum < s) {
+                sum += arr[i];
+            }
+            if(sum > s)
             {
-                sum -= arr[j];
-                j++;
+                while(sum > s)
+                {
+                    sum -= arr[j];
+                    j++;
+                }
             }
-            
-            if(sum == s) {
-                return {j+1, i+1};
-            }
-            
+            if(sum == s) return {j+1, i+1};
             i++;
         }
         
