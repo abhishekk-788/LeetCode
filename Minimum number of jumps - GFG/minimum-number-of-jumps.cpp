@@ -21,7 +21,7 @@ class Solution{
             if(i == curr)
             {
                 jumps++;
-                curr = max(curr, mx_curr);
+                curr = mx_curr;
                 
                 if(curr >= n-1) return jumps+1;
                 if(curr == i) break;
@@ -36,6 +36,7 @@ class Solution{
 /*
 
 11
+0 1 2 3 4 5 6 7 8 9 0
 1 3 5 8 9 2 6 7 6 8 9
 
 */
