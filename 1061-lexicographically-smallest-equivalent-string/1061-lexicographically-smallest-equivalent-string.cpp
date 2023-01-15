@@ -35,11 +35,6 @@ public:
             union_set(s1[i]-'a', s2[i]-'a');
         }
         
-        for(int i = 0; i < 26; i++) {
-            cout << par[i] << " ";
-        }
-        cout << "\n";
-        
         string str = "";
         for(auto ch: baseStr) 
         {
