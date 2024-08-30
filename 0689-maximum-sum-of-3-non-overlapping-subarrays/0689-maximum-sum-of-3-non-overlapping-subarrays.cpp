@@ -17,21 +17,15 @@ public:
         
         auto doNotTake = solve(nums, i + 1, n, k, limit);
         
-        if (take.first > doNotTake.first) {
-            dp[i][limit] = take.first;
-            indexDp[i][limit] = take.second;
-        } else if (take.first < doNotTake.first) {
-            dp[i][limit] = doNotTake.first;
-            indexDp[i][limit] = doNotTake.second;
-        } else {
-            if (take.second < doNotTake.second) {
-                dp[i][limit] = take.first;
-                indexDp[i][limit] = take.second;
-            } else {
-                dp[i][limit] = doNotTake.first;
-                indexDp[i][limit] = doNotTake.second;
-            }
-        }
+        if (take.first > doNotTake.first) 
+            dp[i][limit] = take.first, indexDp[i][limit] = take.second;
+        else if (take.first < doNotTake.first) 
+            dp[i][limit] = doNotTake.first, indexDp[i][limit] = doNotTake.second;
+        else
+            if (take.second < doNotTake.second) 
+                dp[i][limit] = take.first, indexDp[i][limit] = take.second;
+            else
+                dp[i][limit] = doNotTake.first, indexDp[i][limit] = doNotTake.second;
         
         return {dp[i][limit], indexDp[i][limit]};
     }
