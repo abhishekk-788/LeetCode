@@ -1,33 +1,32 @@
 class Solution {
 public:
+    int F(string s, int x, int y)
+    {
+        int cnt = 0;
+        while(x >= 0 && y < s.length() && s[x] == s[y])
+        {
+            cnt++;
+            
+            x--;
+            y++;
+        }
+        return cnt;
+    }
     int countSubstrings(string s) 
     {
-        int n = s.length(), ans = 0;
-        bool dp[1005][1005] = {false};
+        if(s.length() == 0) return 0;
+        if(s.length() == 1) return 1;
         
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = true;
-            ans++;
+        int cnt = 0;
+        for(int i = 0; i < s.length(); i++)
+        {
+            int x = F(s, i, i);
+            int y = F(s, i, i+1);
+            
+            cnt += (x + y);
         }
         
-        for (int i = 0; i < n - 1; i++) {
-            if (s[i] == s[i + 1]) {
-                dp[i][i + 1] = true;
-                ans++;
-            }
-        }
-        
-        for (int len = 3; len <= n; len++) {
-            for (int i = 0; i <= n - len; i++) {
-                int j = i + len - 1;
-                if (s[i] == s[j] && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    ans++;
-                }
-            }
-        }
-        
-        return ans;
+        return cnt;
     }
 };
 
