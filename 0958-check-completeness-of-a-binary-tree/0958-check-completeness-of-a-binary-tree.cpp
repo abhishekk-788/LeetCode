@@ -16,33 +16,25 @@ public:
         if(root == NULL) return true;
 
         queue<TreeNode*> q;
-        vector<int> tree;
+        bool foundNull = false;
         
         q.push(root);
-        tree.push_back(root->val);
         
         while(!q.empty())
         {
-            TreeNode *curr = q.front();
+            TreeNode* front = q.front();
             q.pop();
             
-            if(curr->left) {
-                tree.push_back(curr->left->val);
-                q.push(curr->left);
+            if(front == NULL) foundNull = true;
+            else 
+            {
+                if(foundNull) return false;
+                
+                q.push(front -> left);
+                q.push(front -> right);
             }
-            else tree.push_back(-1);
-            
-            if(curr->right) {
-                tree.push_back(curr->right->val);
-                q.push(curr->right);
-            }
-            else tree.push_back(-1);
-            
         }
-        
-        for(int i = 0; i < tree.size()-1; i++) {
-            if(tree[i] == -1 && tree[i+1] != -1) return false;
-        }
+
         return true;
     }
 };
