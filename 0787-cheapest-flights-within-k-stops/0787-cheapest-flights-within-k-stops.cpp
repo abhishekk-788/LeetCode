@@ -24,7 +24,7 @@ public:
             for (auto& neighbor : G[node]) 
             {
                 int nextNode = neighbor.first, price = neighbor.second;
-                if (stops < k + 1 && cost + price < dp[nextNode][stops + 1]) {
+                if (stops <= k && cost + price < dp[nextNode][stops + 1]) {
                     dp[nextNode][stops + 1] = cost + price;
                     pq.push({dp[nextNode][stops + 1], nextNode, stops + 1});
                 }
