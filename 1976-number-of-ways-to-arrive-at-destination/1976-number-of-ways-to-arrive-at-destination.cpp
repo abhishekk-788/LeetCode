@@ -3,42 +3,43 @@ public:
     int countPaths(int n, vector<vector<int>>& roads) 
     {
         const long MOD = 1e9 + 7;
-        unordered_map<int, vector<pair<int, int>>> G;
+        unordered_map<int, vector<pair<int, int>>> graph;
 
-        for(int i = 0; i < roads.size(); i++)
-        {
-            G[roads[i][0]].push_back({roads[i][1], roads[i][2]});
-            G[roads[i][1]].push_back({roads[i][0], roads[i][2]});
+        for (int i = 0; i < roads.size(); i++) {
+            graph[roads[i][0]].push_back({roads[i][1], roads[i][2]});
+            graph[roads[i][1]].push_back({roads[i][0], roads[i][2]});
         }
 
         priority_queue<pair<long, int>, vector<pair<long, int>>, greater<pair<long, int>>> pq;
 
-        vector<pair<long, long>> dp(n, {1e18, 0});   // {shortest_time, number_of_ways}
+        vector<vector<long>> dp(n, vector<long>(2, 1e18));
+        dp[0][0] = 0;
+        dp[0][1] = 1;
 
         pq.push({0, 0});
-        dp[0] = {0, 1};
 
         while (!pq.empty()) 
         {
-            auto [currentTime, node] = pq.top();
+            auto [time, node] = pq.top();
             pq.pop();
 
-            if (currentTime > dp[node].first) continue;
+            if (time > dp[node][0]) continue;
 
-            for (auto& [neighbor, travelTime] : G[node]) 
+            for (auto& [neighbor, weight] : graph[node]) 
             {
-                long newTime = currentTime + travelTime;
-                
-                if (newTime < dp[neighbor].first) {
-                    dp[neighbor] = {newTime, dp[node].second};
+                long newTime = time + weight;
+
+                if (newTime < dp[neighbor][0]) {
+                    dp[neighbor][0] = newTime;
+                    dp[neighbor][1] = dp[node][1];
                     pq.push({newTime, neighbor});
                 } 
-                else if (newTime == dp[neighbor].first) {
-                    dp[neighbor].second = (dp[neighbor].second + dp[node].second) % MOD;
+                else if (newTime == dp[neighbor][0]) {
+                    dp[neighbor][1] = (dp[neighbor][1] + dp[node][1]) % MOD;
                 }
             }
         }
 
-        return dp[n-1].second;
+        return dp[n-1][1];
     }
 };
