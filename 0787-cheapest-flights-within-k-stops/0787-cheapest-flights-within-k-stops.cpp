@@ -3,41 +3,42 @@ public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) 
     {
         unordered_map<int, vector<pair<int, int>>> G;
-        vector<vector<int>> dp(n, vector<int>(k + 2, 1e9));
-        
-        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
-
-        for (auto& flight : flights) {
-            G[flight[0]].push_back({flight[1], flight[2]});
+        for(auto &flight : flights) 
+        {
+            int src = flight[0], dest = flight[1], wei = flight[2];
+            G[src].push_back({dest, wei});
         }
 
-        dp[src][0] = 0;
-        pq.push({0, src, 0}); // {cost, node, stops}
+        vector<int> dist(n, INT_MAX);
+        queue<vector<int>> q;
+        
+        q.push({0, 0, src}); // stops, dist, node
 
-        while (!pq.empty()) 
+        while(!q.empty()) 
         {
-            auto curr = pq.top();
-            pq.pop();
+            auto front = q.front();
+            int stops = front[0];
+            int cost = front[1];
+            int node = front[2];
+            
+            q.pop();
 
-            int cost = curr[0], node = curr[1], stops = curr[2];
+            if(stops > k) continue;
 
-            for (auto& neighbor : G[node]) 
+            for(auto &nei : G[node]) 
             {
-                int nextNode = neighbor.first, price = neighbor.second;
-                if (stops <= k && cost + price < dp[nextNode][stops + 1]) {
-                    dp[nextNode][stops + 1] = cost + price;
-                    pq.push({dp[nextNode][stops + 1], nextNode, stops + 1});
+                int nei_node = nei.first;
+                int nei_wei = nei.second;
+
+                if(dist[nei_node] > cost + nei_wei && stops <= k) 
+                {
+                    dist[nei_node] = cost + nei_wei;
+                    q.push({stops+1, dist[nei_node], nei_node});
                 }
             }
         }
 
-        int minCost = 1e9;
-        for (int i = 0; i <= k + 1; i++) 
-        {
-            minCost = min(minCost, dp[dst][i]);
-        }
-
-        return (minCost == 1e9) ? -1 : minCost;
+        return dist[dst] == INT_MAX ? -1: dist[dst];
     }
 
 };
