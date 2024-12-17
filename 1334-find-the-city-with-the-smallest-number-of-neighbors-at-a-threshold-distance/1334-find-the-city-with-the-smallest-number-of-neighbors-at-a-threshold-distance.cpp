@@ -1,71 +1,52 @@
 class Solution {
-private:
-    unordered_map<int, vector<pair<int, int>>> G;
 public:
-    int dijsktra(int src, int n, int distanceThreshold) 
+    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) 
     {
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        vector<int> dist(n, 1e9);
-        
-        dist[src] = 0;
-        pq.push({0, src});
-        
-        while(!pq.empty()) 
-        {
-            auto itr = pq.top();
-            pq.pop();
-            
-            int wt = itr.first, node = itr.second;
-            
-            for(auto neighbor: G[node]) 
-            {
-                if(wt + neighbor.second < dist[neighbor.first]) 
-                {
-                    dist[neighbor.first] = wt + neighbor.second;
-                    pq.push({dist[neighbor.first], neighbor.first});
+        vector<vector<int>> matrix(n, vector<int> (n, 1e9));
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == j) {
+                    matrix[i][j] = 0;
                 }
             }
         }
         
-        int cnt = 0;
-        for (int i = 0; i < n; ++i) {
-            if (dist[i] > distanceThreshold) cnt++;
-        }
-        return cnt;
-    }
-    int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) 
-    {
         for(int i = 0; i < edges.size(); i++) {
-            G[edges[i][0]].push_back({edges[i][1], edges[i][2]});
-            G[edges[i][1]].push_back({edges[i][0], edges[i][2]});
+            matrix[edges[i][0]][edges[i][1]] = edges[i][2];
+            matrix[edges[i][1]][edges[i][0]] = edges[i][2];
+        }
+    
+        // Floyd-Warshall algorithm
+        for (int k = 0; k < n; k++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (matrix[i][k] != 1e9 && matrix[k][j] != 1e9) { 
+                        matrix[i][j] = min(matrix[i][j], matrix[i][k] + matrix[k][j]);
+                    }
+                }
+            }
         }
         
-        int mnCitiesReachable = 0, ans = -1;
-        for(int i = 0; i < n; i++) 
+        int mnReachables = n-1, ans = -1;
+        for (int i = 0; i < n; i++) 
         {
-            int notReachable = dijsktra(i, n, distanceThreshold);
-            if(notReachable == mnCitiesReachable) {
+            int reachableNodesCount = 0;
+            for (int j = 0; j < n; j++) 
+            {
+                if(i != j && matrix[i][j] != 1e9 && matrix[i][j] <= distanceThreshold) {
+                    reachableNodesCount++;
+                }
+            }
+            if(reachableNodesCount == mnReachables) {
                 ans = max(ans, i);
             }
-            if(notReachable > mnCitiesReachable) {
+            if(reachableNodesCount < mnReachables) 
+            {
                 ans = i;
-                mnCitiesReachable = notReachable;
+                mnReachables = reachableNodesCount;
             }
-        }    
+        }
         
         return ans;
     }
 };
-
-
-/*
-
-Return the city with the smallest number of cities that are reachable and distance is at most distanceThreshold
-
-0 -> 1
-0 -> 1 -> 3
-
-Dijkstra for all vertices
-
-
-*/
