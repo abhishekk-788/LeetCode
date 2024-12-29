@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhishekk-788/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhishekk-788/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Simulation
 |  |
 | ------- |
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/abhishekk-788/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
