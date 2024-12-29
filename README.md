@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0738-monotone-increasing-digits](https://github.com/abhishekk-788/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/abhishekk-788/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/abhishekk-788/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
