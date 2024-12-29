@@ -57,4 +57,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Tree
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
