@@ -20,17 +20,15 @@ class Twitter {
 
     public List<Integer> getNewsFeed(int userId) {
         
+       List<Integer> feed = new ArrayList<>(posts.getOrDefault(userId, new ArrayList<>()));
+
         Set<Integer> userFollowers = followers.getOrDefault(userId, new HashSet<>());
-        Set<Integer> allTweets = new HashSet<>(posts.getOrDefault(userId, new ArrayList<>()));
-        
         for (Integer follower : userFollowers) {
-            allTweets.addAll(posts.getOrDefault(follower, new ArrayList<>()));
+            feed.addAll(posts.getOrDefault(follower, new ArrayList<>()));
         }
-        
-        List<Integer> sortedTweets = new ArrayList<>(allTweets);
-        sortedTweets.sort((a, b) -> Integer.compare(postTime.get(b), postTime.get(a)));
-        
-        return sortedTweets.subList(0, Math.min(10, sortedTweets.size()));
+
+        feed.sort((a, b) -> Integer.compare(postTime.get(b), postTime.get(a)));
+        return feed.subList(0, Math.min(10, feed.size()));
     }
 
 
