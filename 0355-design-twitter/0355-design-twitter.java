@@ -24,50 +24,50 @@ class Twitter {
         posts.computeIfAbsent(userId, k -> new ArrayList<>()).add(new Tweet(tweetId, time++));
     }
 
-    // public List<Integer> getNewsFeed(int userId) {
-    //     PriorityQueue<Tweet> pq = new PriorityQueue<>((a, b) -> b.timestamp - a.timestamp);
-
-    //     if (posts.containsKey(userId)) {
-    //         pq.addAll(posts.get(userId));
-    //     }
-
-    //     Set<Integer> userFollowers = followers.getOrDefault(userId, new HashSet<>());
-    //     for (Integer follower : userFollowers) {
-    //         if (posts.containsKey(follower)) {
-    //             pq.addAll(posts.get(follower));
-    //         }
-    //     }
-
-    //     List<Integer> result = new ArrayList<>();
-    //     for (int i = 0; i < 10 && !pq.isEmpty(); i++) {
-    //         result.add(pq.poll().id);
-    //     }
-
-    //     return result;
-    // }
-
     public List<Integer> getNewsFeed(int userId) {
-        List<Tweet> feed = new ArrayList<>();
+        PriorityQueue<Tweet> pq = new PriorityQueue<>((a, b) -> b.timestamp - a.timestamp);
+
         if (posts.containsKey(userId)) {
-            feed.addAll(posts.get(userId));
+            pq.addAll(posts.get(userId));
         }
 
         Set<Integer> userFollowers = followers.getOrDefault(userId, new HashSet<>());
         for (Integer follower : userFollowers) {
             if (posts.containsKey(follower)) {
-                feed.addAll(posts.get(follower));
+                pq.addAll(posts.get(follower));
             }
         }
 
-        feed.sort((a, b) -> b.timestamp - a.timestamp);
-
         List<Integer> result = new ArrayList<>();
-        for (int i = 0; i < Math.min(10, feed.size()); i++) {
-            result.add(feed.get(i).id);
+        for (int i = 0; i < 10 && !pq.isEmpty(); i++) {
+            result.add(pq.poll().id);
         }
 
         return result;
     }
+
+    // public List<Integer> getNewsFeed(int userId) {
+    //     List<Tweet> feed = new ArrayList<>();
+    //     if (posts.containsKey(userId)) {
+    //         feed.addAll(posts.get(userId));
+    //     }
+
+    //     Set<Integer> userFollowers = followers.getOrDefault(userId, new HashSet<>());
+    //     for (Integer follower : userFollowers) {
+    //         if (posts.containsKey(follower)) {
+    //             feed.addAll(posts.get(follower));
+    //         }
+    //     }
+
+    //     feed.sort((a, b) -> b.timestamp - a.timestamp);
+
+    //     List<Integer> result = new ArrayList<>();
+    //     for (int i = 0; i < Math.min(10, feed.size()); i++) {
+    //         result.add(feed.get(i).id);
+    //     }
+
+    //     return result;
+    // }
 
 
     public void follow(int followerId, int followeeId) {
