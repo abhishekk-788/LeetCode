@@ -15,47 +15,41 @@
  */
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        int level = 0;
+        if (root == null) return root;
+
         Queue<TreeNode> q = new LinkedList<>();
-
         q.add(root);
-        q.add(null);
 
-        while(q.size() > 1)
+        int level = 0;
+
+        while (!q.isEmpty()) 
         {
-            Deque<TreeNode> dq = new ArrayDeque<>();
-            while(q.peek() != null) {
+            int size = q.size();
+            Deque<TreeNode> deque = new ArrayDeque<>();
 
-                TreeNode front = q.poll();
-                dq.addLast(front);
-                
-                if(front.left != null) q.add(front.left);
-                if(front.right != null) q.add(front.right);
-            }
-            
-            if(level == 0) {
-                while(!dq.isEmpty()) {
-                    dq.poll();
-                }
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                deque.addLast(node);
+
+                if (node.left != null) q.add(node.left);
+                if (node.right != null) q.add(node.right);
             }
 
-            while(!dq.isEmpty() && level > 0) {
-                TreeNode front = dq.pollFirst();
-                TreeNode back = dq.pollLast();
-                
-                if(level % 2 == 1) {
+            if (level % 2 == 1) {
+                while (deque.size() > 1) 
+                {
+                    TreeNode front = deque.pollFirst();
+                    TreeNode back = deque.pollLast();
+
                     int temp = front.val;
                     front.val = back.val;
                     back.val = temp;
                 }
             }
 
-            q.poll();
-            q.add(null);
-            
             level++;
         }
-        
+
         return root;
     }
 }
