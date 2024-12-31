@@ -1,6 +1,6 @@
 class Solution {
     public int F(int[] nums, int s, int n, int[][] dp) {
-        if (s == 0 && n == 0) return 1;
+        if (s == 0) return 1;
         if (s < 0 || n == 0) return 0;
 
         if (dp[n][s] != -1) return dp[n][s];
@@ -10,7 +10,7 @@ class Solution {
         } else {
             dp[n][s] = F(nums, s, n-1, dp);
         }
-        return dp[s][n];
+        return dp[n][s];
     }
 
     public boolean canPartition(int[] nums) {
@@ -23,10 +23,6 @@ class Solution {
         s = s / 2;
 
         int[][] dp = new int[n+1][s+1];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
-        
         for(int i = 0; i <= n; i++) {
             dp[i][0] = 1;
         }
