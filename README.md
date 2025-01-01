@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/abhishekk-788/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/abhishekk-788/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/abhishekk-788/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
