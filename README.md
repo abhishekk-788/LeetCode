@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhishekk-788/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
+| [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhishekk-788/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Simulation
