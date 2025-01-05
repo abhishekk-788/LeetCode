@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/abhishekk-788/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/abhishekk-788/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/abhishekk-788/LeetCode/tree/master/0377-combination-sum-iv) |
