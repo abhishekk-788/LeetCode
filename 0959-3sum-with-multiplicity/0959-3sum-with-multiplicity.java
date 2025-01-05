@@ -2,13 +2,13 @@ class Solution {
     public int binarySearch(List<Integer> indices, int j) 
     {
         int low = 0, high = indices.size() - 1;
-        while (low <= high) {
+        while (low <= high) 
+        {
             int mid = low + (high - low) / 2;
             if (indices.get(mid) <= j) {
                 low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
+            } 
+            else high = mid - 1;
         }
         return low;
     }
