@@ -15,12 +15,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0738-monotone-increasing-digits](https://github.com/abhishekk-788/LeetCode/tree/master/0738-monotone-increasing-digits) |
 ## Array
 |  |
 | ------- |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/abhishekk-788/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
