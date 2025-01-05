@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhishekk-788/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekk-788/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
