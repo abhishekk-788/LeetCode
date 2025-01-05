@@ -22,17 +22,11 @@ public:
     {
         nums.insert(nums.begin(), 1);
         nums.push_back(1);
+
+        int n = nums.size();
         
         memset(dp, -1, sizeof(dp));
         
-        return solve(nums, 1, nums.size()-2);
+        return solve(nums, 1, n-2);
     }
 };
-
-/*
-
-[3,1,5,8]
-
-
-
-*/
