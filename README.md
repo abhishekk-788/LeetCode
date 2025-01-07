@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0260-single-number-iii) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 ## Bitmask
 |  |
