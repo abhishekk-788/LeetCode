@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -76,10 +77,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekk-788/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Design
 |  |
 | ------- |
