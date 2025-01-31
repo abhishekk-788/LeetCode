@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0146-lru-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/abhishekk-788/LeetCode/tree/master/0355-design-twitter) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/abhishekk-788/LeetCode/tree/master/0355-design-twitter) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/abhishekk-788/LeetCode/tree/master/0355-design-twitter) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0146-lru-cache) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Sorting
 |  |
