@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
+| [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Monotonic Stack
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/abhishekk-788/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/abhishekk-788/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0460-lfu-cache) |
+| [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0432-all-oone-data-structure](https://github.com/abhishekk-788/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0460-lfu-cache) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
+| [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
@@ -254,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
