@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/abhishekk-788/LeetCode/tree/master/0873-guess-the-word) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0460-lfu-cache) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0460-lfu-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0460-lfu-cache) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
 ## Heap (Priority Queue)
 |  |
@@ -219,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/abhishekk-788/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
