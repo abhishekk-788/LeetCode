@@ -19,7 +19,6 @@ public:
     int insert(int val) 
     {
         queue<TreeNode*> q;
-        cout << root << "\n";
         q.push(root);
 
         TreeNode *curr;
