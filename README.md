@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Linked List
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Binary Indexed Tree
 |  |
