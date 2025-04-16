@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0955-complete-binary-tree-inserter](https://github.com/abhishekk-788/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -274,4 +277,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
+## Union Find
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
