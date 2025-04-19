@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/abhishekk-788/LeetCode/tree/master/0873-guess-the-word) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekk-788/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 | [2481-strictly-palindromic-number](https://github.com/abhishekk-788/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 ## Binary Search Tree
 |  |
