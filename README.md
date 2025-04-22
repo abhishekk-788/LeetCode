@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/abhishekk-788/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/abhishekk-788/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0955-complete-binary-tree-inserter](https://github.com/abhishekk-788/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0437-path-sum-iii) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/abhishekk-788/LeetCode/tree/master/0955-complete-binary-tree-inserter) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Hash Table
@@ -193,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -231,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
