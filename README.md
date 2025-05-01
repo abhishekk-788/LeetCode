@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2169-simple-bank-system](https://github.com/abhishekk-788/LeetCode/tree/master/2169-simple-bank-system) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhishekk-788/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/abhishekk-788/LeetCode/tree/master/2169-simple-bank-system) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Two Pointers
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
+| [2169-simple-bank-system](https://github.com/abhishekk-788/LeetCode/tree/master/2169-simple-bank-system) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
+| [2169-simple-bank-system](https://github.com/abhishekk-788/LeetCode/tree/master/2169-simple-bank-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
