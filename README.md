@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/abhishekk-788/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/abhishekk-788/LeetCode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/abhishekk-788/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1804-maximum-binary-string-after-change](https://github.com/abhishekk-788/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2169-simple-bank-system](https://github.com/abhishekk-788/LeetCode/tree/master/2169-simple-bank-system) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Design
 |  |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/abhishekk-788/LeetCode/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/abhishekk-788/LeetCode/tree/master/0744-network-delay-time) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 ## Queue
 |  |
 | ------- |
@@ -262,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Bit Manipulation
 |  |
