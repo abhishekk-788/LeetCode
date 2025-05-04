@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/abhishekk-788/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0738-monotone-increasing-digits](https://github.com/abhishekk-788/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0873-guess-the-word](https://github.com/abhishekk-788/LeetCode/tree/master/0873-guess-the-word) |
+| [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhishekk-788/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekk-788/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekk-788/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Brainteaser
 |  |
 | ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/abhishekk-788/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
@@ -344,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/abhishekk-788/LeetCode/tree/master/0744-network-delay-time) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
