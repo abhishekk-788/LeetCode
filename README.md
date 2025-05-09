@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0738-monotone-increasing-digits](https://github.com/abhishekk-788/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1804-maximum-binary-string-after-change](https://github.com/abhishekk-788/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/abhishekk-788/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/abhishekk-788/LeetCode/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Array
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/abhishekk-788/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/abhishekk-788/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2854-decremental-string-concatenation](https://github.com/abhishekk-788/LeetCode/tree/master/2854-decremental-string-concatenation) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/abhishekk-788/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekk-788/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -311,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/abhishekk-788/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekk-788/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Interactive
