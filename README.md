@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
 | [2854-decremental-string-concatenation](https://github.com/abhishekk-788/LeetCode/tree/master/2854-decremental-string-concatenation) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/abhishekk-788/LeetCode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/abhishekk-788/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/abhishekk-788/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekk-788/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishekk-788/LeetCode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2854-decremental-string-concatenation](https://github.com/abhishekk-788/LeetCode/tree/master/2854-decremental-string-concatenation) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/abhishekk-788/LeetCode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/abhishekk-788/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## String
 |  |
 | ------- |
@@ -258,10 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/abhishekk-788/LeetCode/tree/master/0744-network-delay-time) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/abhishekk-788/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/abhishekk-788/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -372,4 +376,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3209-minimum-number-of-coins-for-fruits](https://github.com/abhishekk-788/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 <!---LeetCode Topics End-->
