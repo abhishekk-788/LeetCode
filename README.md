@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0260-single-number-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhishekk-788/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Trie
 |  |
