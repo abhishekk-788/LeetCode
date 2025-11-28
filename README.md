@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/abhishekk-788/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/abhishekk-788/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0090-subsets-ii) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhishekk-788/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/abhishekk-788/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0090-subsets-ii) |
