@@ -1,21 +1,39 @@
 class TopVotedCandidate {
-    TreeMap<Integer, Integer> hash;
+    int[] times;
+    int[] leaders; 
+
     public TopVotedCandidate(int[] persons, int[] times) {
-        hash = new TreeMap<>();
+        this.times = times;
         int n = persons.length;
 
-        int[] count = new int[persons.length];
-        int max = 0;
-        for(int i = 0; i < n; i++) {
-            count[persons[i]]++;
-            if(count[persons[i]] >= max) {
-                max = count[persons[i]];
-                hash.put(times[i], persons[i]);
+        int maxPerson = 0;
+        for (int p : persons) maxPerson = Math.max(maxPerson, p);
+        int[] count = new int[maxPerson + 1];
+
+        leaders = new int[n];
+        int leader = -1;
+        int leaderCount = 0;
+
+        for (int i = 0; i < n; i++) {
+            int p = persons[i];
+            count[p]++;
+
+            if (count[p] >= leaderCount) {
+                leader = p;
+                leaderCount = count[p];
             }
+            leaders[i] = leader;
         }
     }
+
     public int q(int t) {
-        return hash.floorEntry(t).getValue();
+        int l = 0, r = times.length - 1;
+        while (l < r) {
+            int mid = (l + r + 1) / 2;
+            if (times[mid] <= t) l = mid;
+            else r = mid - 1;
+        }
+        return leaders[l];
     }
 }
 /**
