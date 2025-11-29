@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhishekk-788/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0859-design-circular-deque](https://github.com/abhishekk-788/LeetCode/tree/master/0859-design-circular-deque) |
 | [0873-guess-the-word](https://github.com/abhishekk-788/LeetCode/tree/master/0873-guess-the-word) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/abhishekk-788/LeetCode/tree/master/0278-first-bad-version) |
 | [0436-find-right-interval](https://github.com/abhishekk-788/LeetCode/tree/master/0436-find-right-interval) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhishekk-788/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhishekk-788/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/abhishekk-788/LeetCode/tree/master/0910-nth-magical-number) |
 | [0911-online-election](https://github.com/abhishekk-788/LeetCode/tree/master/0911-online-election) |
