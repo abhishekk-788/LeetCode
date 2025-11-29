@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/abhishekk-788/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/abhishekk-788/LeetCode/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
+| [0436-find-right-interval](https://github.com/abhishekk-788/LeetCode/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0278-first-bad-version](https://github.com/abhishekk-788/LeetCode/tree/master/0278-first-bad-version) |
+| [0436-find-right-interval](https://github.com/abhishekk-788/LeetCode/tree/master/0436-find-right-interval) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/abhishekk-788/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/abhishekk-788/LeetCode/tree/master/0910-nth-magical-number) |
