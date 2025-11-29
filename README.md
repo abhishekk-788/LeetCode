@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishekk-788/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishekk-788/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0278-first-bad-version](https://github.com/abhishekk-788/LeetCode/tree/master/0278-first-bad-version) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/abhishekk-788/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/abhishekk-788/LeetCode/tree/master/0910-nth-magical-number) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/abhishekk-788/LeetCode/tree/master/0278-first-bad-version) |
 | [0873-guess-the-word](https://github.com/abhishekk-788/LeetCode/tree/master/0873-guess-the-word) |
 ## Game Theory
 |  |
