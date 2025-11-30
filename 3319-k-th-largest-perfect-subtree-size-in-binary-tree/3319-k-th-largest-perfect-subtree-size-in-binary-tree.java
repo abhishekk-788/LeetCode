@@ -14,33 +14,48 @@
  * }
  */
 class Solution {
-    List<Integer> list;
-    public int F(TreeNode root)
-    {
-        if(root == null) return 0;
-        if(root.left == null && root.right == null) 
-        {
-            System.out.println(root.val);
-            list.add(1);
+    private PriorityQueue<Integer> pq;
+    private int K;
+
+    private int dfs(TreeNode node) {
+        if (node == null) return 0;
+        if (node.left == null && node.right == null) {
+            record(1);
             return 1;
         }
 
-        int l = F(root.left);
-        int r = F(root.right);
+        int L = dfs(node.left);
+        int R = dfs(node.right);
 
-        if(l == r && l != 0) {
-            list.add(l + r + 1);
-            return l + r + 1;
+        if (L == R && L != 0) {
+            int size = L + R + 1;
+            record(size);
+            return size;
         }
         return 0;
     }
-    public int kthLargestPerfectSubtree(TreeNode root, int k) 
-    {
-        list = new ArrayList<>();
-        F(root); 
 
-        Collections.sort(list, (a, b) -> b-a); 
-        System.out.println(list); 
-        return (k > list.size()) ? -1: list.get(k-1); 
+    private void record(int size) 
+    {
+        if (K <= 0) return;
+        if (pq.size() < K) {
+            pq.offer(size);
+        } else if (size > pq.peek()) {
+            pq.poll();
+            pq.offer(size);
+        }
+    }
+
+    public int kthLargestPerfectSubtree(TreeNode root, int k) {
+        if (root == null) return -1;
+        if (k <= 0) return -1;
+
+        this.K = k;
+        this.pq = new PriorityQueue<>(k);
+
+        dfs(root);
+
+        if (pq.size() < k) return -1;
+        return pq.peek();
     }
 }
