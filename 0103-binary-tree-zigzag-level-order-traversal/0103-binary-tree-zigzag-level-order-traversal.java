@@ -25,7 +25,7 @@ class Solution {
         while(!q.isEmpty()) {
             int size = q.size();
             List<Integer> list = new ArrayList<>();
-            for(int i = 0; i < size; i++) {
+            while(size != 0){
                 TreeNode node = q.remove();
                 list.add(node.val);
                 if(node.left != null) {
@@ -34,6 +34,7 @@ class Solution {
                 if(node.right != null) {
                     q.add(node.right);
                 }
+                size--;
             }
             if(level % 2 == 1) {
                 Collections.reverse(list);
