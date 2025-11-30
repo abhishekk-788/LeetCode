@@ -33,32 +33,27 @@ class Solution {
 
                 size--;
             }
-            // 7 6 8 5
-            // 5 6 7 8
+
             int n = list.size();
             List<Integer> sortedList = new ArrayList<>(list);
             Collections.sort(sortedList);
 
-            HashMap<Integer, Integer> pos = new HashMap<>();
-            for (int i = 0; i < n; i++){
-                pos.put(list.get(i), i);
-            }
-            
-            for(int i = 0; i < n; i++) 
-            {
-                int want = sortedList.get(i);
-                if (list.get(i) != want) 
-                {
-                    ans++;
-                    int curVal = list.get(i);
-                    int j = pos.get(want);
+            Integer[] idx = new Integer[n];
+            for (int i = 0; i < n; i++) idx[i] = i;
 
-                    list.set(j, curVal);
-                    list.set(i, want);
+            Arrays.sort(idx, Comparator.comparingInt(i -> list.get(i)));
 
-                    pos.put(curVal, j);
-                    pos.put(want, i);
+            boolean[] visited = new boolean[n];
+            for (int i = 0; i < n; i++) {
+                if (visited[i] || idx[i] == i) continue;
+                int cycleSize = 0;
+                int cur = i;
+                while (!visited[cur]) {
+                    visited[cur] = true;
+                    cur = idx[cur];
+                    cycleSize++;
                 }
+                if (cycleSize > 0) ans += cycleSize - 1;
             }
         }
         return ans;
