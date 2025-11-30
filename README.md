@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekk-788/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekk-788/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekk-788/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekk-788/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhishekk-788/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekk-788/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
