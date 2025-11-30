@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/abhishekk-788/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/abhishekk-788/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/abhishekk-788/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/abhishekk-788/LeetCode/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/abhishekk-788/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/abhishekk-788/LeetCode/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Bit Manipulation
 |  |
