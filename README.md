@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhishekk-788/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/abhishekk-788/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/abhishekk-788/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekk-788/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/abhishekk-788/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/abhishekk-788/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
@@ -448,4 +450,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/abhishekk-788/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhishekk-788/LeetCode/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhishekk-788/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
