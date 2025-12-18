@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/abhishekk-788/LeetCode/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhishekk-788/LeetCode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/abhishekk-788/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/abhishekk-788/LeetCode/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/abhishekk-788/LeetCode/tree/master/0343-integer-break) |
@@ -367,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekk-788/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0275-h-index-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/abhishekk-788/LeetCode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/abhishekk-788/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/abhishekk-788/LeetCode/tree/master/0436-find-right-interval) |
 | [0669-trim-a-binary-search-tree](https://github.com/abhishekk-788/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
