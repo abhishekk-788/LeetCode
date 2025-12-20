@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/abhishekk-788/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/abhishekk-788/LeetCode/tree/master/0911-online-election) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekk-788/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0873-guess-the-word](https://github.com/abhishekk-788/LeetCode/tree/master/0873-guess-the-word) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekk-788/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/abhishekk-788/LeetCode/tree/master/0143-reorder-list) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1881-closest-subsequence-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1881-closest-subsequence-sum) |
 | [2481-strictly-palindromic-number](https://github.com/abhishekk-788/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -277,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
@@ -329,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/abhishekk-788/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
