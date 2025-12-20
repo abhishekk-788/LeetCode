@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhishekk-788/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0738-monotone-increasing-digits](https://github.com/abhishekk-788/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1804-maximum-binary-string-after-change](https://github.com/abhishekk-788/LeetCode/tree/master/1804-maximum-binary-string-after-change) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/abhishekk-788/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0454-4sum-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhishekk-788/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhishekk-788/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhishekk-788/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/abhishekk-788/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/abhishekk-788/LeetCode/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishekk-788/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/abhishekk-788/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
