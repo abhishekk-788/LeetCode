@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhishekk-788/LeetCode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/abhishekk-788/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/abhishekk-788/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/abhishekk-788/LeetCode/tree/master/0312-burst-balloons) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/abhishekk-788/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/abhishekk-788/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhishekk-788/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
