@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/abhishekk-788/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/abhishekk-788/LeetCode/tree/master/0911-online-election) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [0983-minimum-cost-for-tickets](https://github.com/abhishekk-788/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekk-788/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/abhishekk-788/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
