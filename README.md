@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekk-788/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/abhishekk-788/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekk-788/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk-788/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/abhishekk-788/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/abhishekk-788/LeetCode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1362-airplane-seat-assignment-probability](https://github.com/abhishekk-788/LeetCode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhishekk-788/LeetCode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/abhishekk-788/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1905-design-authentication-manager](https://github.com/abhishekk-788/LeetCode/tree/master/1905-design-authentication-manager) |
 | [2169-simple-bank-system](https://github.com/abhishekk-788/LeetCode/tree/master/2169-simple-bank-system) |
