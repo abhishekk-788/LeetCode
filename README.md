@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0911-online-election](https://github.com/abhishekk-788/LeetCode/tree/master/0911-online-election) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk-788/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekk-788/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/abhishekk-788/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/abhishekk-788/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk-788/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhishekk-788/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/abhishekk-788/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [0959-3sum-with-multiplicity](https://github.com/abhishekk-788/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhishekk-788/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/abhishekk-788/LeetCode/tree/master/1048-longest-string-chain) |
 | [1207-delete-nodes-and-return-forest](https://github.com/abhishekk-788/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0910-nth-magical-number](https://github.com/abhishekk-788/LeetCode/tree/master/0910-nth-magical-number) |
 | [0911-online-election](https://github.com/abhishekk-788/LeetCode/tree/master/0911-online-election) |
 | [1023-time-based-key-value-store](https://github.com/abhishekk-788/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1027-longest-arithmetic-subsequence](https://github.com/abhishekk-788/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhishekk-788/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/abhishekk-788/LeetCode/tree/master/1249-snapshot-array) |
 | [1397-search-suggestions-system](https://github.com/abhishekk-788/LeetCode/tree/master/1397-search-suggestions-system) |
