@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhishekk-788/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/abhishekk-788/LeetCode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/abhishekk-788/LeetCode/tree/master/0739-daily-temperatures) |
 | [0931-maximum-frequency-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0931-maximum-frequency-stack) |
 | [2317-count-collisions-on-a-road](https://github.com/abhishekk-788/LeetCode/tree/master/2317-count-collisions-on-a-road) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/abhishekk-788/LeetCode/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/abhishekk-788/LeetCode/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/abhishekk-788/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/abhishekk-788/LeetCode/tree/master/0460-lfu-cache) |
