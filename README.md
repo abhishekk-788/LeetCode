@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2854-decremental-string-concatenation](https://github.com/abhishekk-788/LeetCode/tree/master/2854-decremental-string-concatenation) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/abhishekk-788/LeetCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/abhishekk-788/LeetCode/tree/master/2916-check-if-it-is-possible-to-split-array) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekk-788/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/abhishekk-788/LeetCode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/abhishekk-788/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishekk-788/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2332-count-lattice-points-inside-a-circle](https://github.com/abhishekk-788/LeetCode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/abhishekk-788/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2603-reward-top-k-students](https://github.com/abhishekk-788/LeetCode/tree/master/2603-reward-top-k-students) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/abhishekk-788/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3634-find-mirror-score-of-a-string](https://github.com/abhishekk-788/LeetCode/tree/master/3634-find-mirror-score-of-a-string) |
 ## Design
 |  |
