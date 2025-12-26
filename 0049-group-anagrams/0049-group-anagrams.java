@@ -14,12 +14,12 @@ class Solution {
 
             hash.put(sortedStr, group);
         }
-        for(Map.Entry<String, List<String>> entry: hash.entrySet()) {
+        hash.forEach((K, V) -> {
             List<String> anagram = new ArrayList<>();
-            anagram.addAll(entry.getValue());
+            anagram.addAll(V);
             
             list.add(anagram);
-        }
+        });
 
         return list;
     }
